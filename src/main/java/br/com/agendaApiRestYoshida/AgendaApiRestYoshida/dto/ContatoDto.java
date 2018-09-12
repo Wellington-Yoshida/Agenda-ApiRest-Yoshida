@@ -27,7 +27,9 @@ public class ContatoDto {
     @Column(nullable = false)
     private TipoFone tipoFone;
 
-    private Agenda agenda;
+    private Long agendaId;
+
+    private String agendaNome;
 
     public Long getId() {
         return id;
@@ -61,11 +63,19 @@ public class ContatoDto {
         this.tipoFone = tipoFone;
     }
 
-    public Agenda getAgenda() {
-        return agenda;
+    public Long getAgendaId() {
+        return agendaId;
     }
 
-    public void setAgenda(Agenda agenda) {
-        this.agenda = agenda;
+    public void setAgendaId(Long agendaId) {
+        this.agendaId = agendaId;
+    }
+
+    public String getAgendaNome() {
+        return agendaNome;
+    }
+
+    public void setAgendaNome(String agendaNome) {
+        this.agendaNome = agendaNome;
     }
 }

@@ -42,6 +42,7 @@ public class ContatoController {
 
         List<ContatoDto> contatoDtoList = new ArrayList<ContatoDto>();
         response.setData(converteContatoParaContatoDto(contatos, contatoDtoList));
+        response.setSucesso("Lista de Contatos");
         return ResponseEntity.ok(response);
     }
 
@@ -53,7 +54,8 @@ public class ContatoController {
             contatoDto.setFone(contato.getFone());
             contatoDto.setNomeContato(contato.getNomeContato());
             contatoDto.setTipoFone(contato.getTipoFone());
-            contatoDto.setAgenda(contato.getAgenda());
+            contatoDto.setAgendaId(contato.getAgenda().getId());
+            contatoDto.setAgendaNome(contato.getAgenda().getNome());
 
             contatoDtoList.add(contatoDto);
         }
