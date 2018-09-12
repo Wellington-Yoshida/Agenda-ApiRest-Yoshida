@@ -1,9 +1,9 @@
 package br.com.agendaApiRestYoshida.AgendaApiRestYoshida.dto;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import br.com.agendaApiRestYoshida.AgendaApiRestYoshida.domain.Agenda;
+import br.com.agendaApiRestYoshida.AgendaApiRestYoshida.enums.TipoFone;
+
+import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 
@@ -23,9 +23,11 @@ public class ContatoDto {
     @Size(max = 10, message = "Tamanho máximo de número do telefone deve ser 10 digitos.")
     private String fone;
 
-    private String tipoFone;
+    @Enumerated(EnumType.STRING)
+    @Column(nullable = false)
+    private TipoFone tipoFone;
 
-    private Long agendaId;
+    private Agenda agenda;
 
     public Long getId() {
         return id;
@@ -51,19 +53,19 @@ public class ContatoDto {
         this.fone = fone;
     }
 
-    public String getTipoFone() {
+    public TipoFone getTipoFone() {
         return tipoFone;
     }
 
-    public void setTipoFone(String tipoFone) {
+    public void setTipoFone(TipoFone tipoFone) {
         this.tipoFone = tipoFone;
     }
 
-    public Long getAgendaId() {
-        return agendaId;
+    public Agenda getAgenda() {
+        return agenda;
     }
 
-    public void setAgendaId(Long agendaId) {
-        this.agendaId = agendaId;
+    public void setAgenda(Agenda agenda) {
+        this.agenda = agenda;
     }
 }
