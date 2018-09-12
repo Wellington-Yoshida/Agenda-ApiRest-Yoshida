@@ -23,8 +23,8 @@ public class ContatoController {
     private final String MENSAGEM_ATUALIZADO_COM_SUCESSO = "Contato Atualizada com sucesso.";
     private final String MENSAGEM_REMOVIDO_COM_SUCESSO = "Contato removido com sucesso.";
 
-    @Autowired
-    private ContatoService contatoService;
+   @Autowired
+   private ContatoService contatoService;
 
     public ContatoController() {
     }

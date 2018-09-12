@@ -3,9 +3,13 @@ package br.com.agendaApiRestYoshida.AgendaApiRestYoshida.service;
 import br.com.agendaApiRestYoshida.AgendaApiRestYoshida.dao.ContatoDao;
 import br.com.agendaApiRestYoshida.AgendaApiRestYoshida.domain.Contato;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
+@Service
+@Transactional
 public class ContatoServiceImpl implements ContatoService {
 
     @Autowired
