@@ -30,7 +30,7 @@ public class AgendaDaoImpl implements AgendaDao{
 
     @Override
     public List<Agenda> findAll() {
-        return entityManager.createQuery("select a from Agenda a", Agenda.class).getResultList();
+        return entityManager.createQuery("select a from Agenda a order by id", Agenda.class).getResultList();
     }
 
     @Override
