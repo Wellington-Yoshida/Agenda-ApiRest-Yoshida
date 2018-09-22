@@ -80,6 +80,7 @@ public class ContatoController {
 
         contatoService.salvar(contato);
         response.setData(converteContatoParaContatoDto(contato));
+        response.setSucesso(MENSAGEM_SUCESSO_CONTATO);
         return ResponseEntity.ok(response);
     }
 
