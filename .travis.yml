@@ -3,4 +3,6 @@ jdk:
   - oraclejdk8
 install:
   - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-sudo: false
+script:
+  - mvn test
+  - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
