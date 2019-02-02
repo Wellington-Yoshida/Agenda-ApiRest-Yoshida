@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="678b6550-0c8c-466e-8824-6810413b4a62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/AgendaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/AgendaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/ContatoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/ContatoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/AgendaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/AgendaDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/AgendaDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/AgendaDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/ContatoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/ContatoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/ContatoDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/ContatoDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Agenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Agenda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Contato.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Contato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/AgendaDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/AgendaDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/UsuarioDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoFone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoFone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoUsuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/response/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/response/Response.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/AgendaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/AgendaService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/AgendaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/AgendaServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/ContatoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/ContatoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/ContatoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/ContatoServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            <state relative-caret-position="-136">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -117,8 +89,8 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDtoNulo.java" />
         <option value="$PROJECT_DIR$/src/test/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplicationTests.java" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -178,6 +150,13 @@
               <item name="Agenda-ApiRest-Yoshida" type="b2602c69:ProjectViewProjectNode" />
               <item name="Agenda-ApiRest-Yoshida" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Agenda-ApiRest-Yoshida" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Agenda-ApiRest-Yoshida" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549126534600" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549126891099" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -269,7 +248,7 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2501681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2501681" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.25227273" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +262,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32707775" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3243968" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3243968" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.39805827" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924242" weight="0.32841823" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -337,13 +316,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebMvcConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/AgendaDto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -438,13 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -452,10 +417,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda-ApiRest-Yoshida.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state relative-caret-position="-136">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
