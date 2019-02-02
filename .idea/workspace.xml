@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="678b6550-0c8c-466e-8824-6810413b4a62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoUsuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,86 +11,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1200271112">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="4" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.35" value="3" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="4" />
-          <entry key="java" value="92" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="92" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3668" />
-          <entry key="properties" value="9" />
-          <entry key="xml" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3668" />
-          <entry key="Properties" value="9" />
-          <entry key="XML" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Agenda-ApiRest-Yoshida" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/ContatoController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="e#1649#1650#0" expanded="true" />
-                <element signature="e#1680#1681#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -150,6 +66,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDtoNulo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -172,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,28 +126,33 @@
               <item name="Agenda-ApiRest-Yoshida" type="b2602c69:ProjectViewProjectNode" />
               <item name="Agenda-ApiRest-Yoshida" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AgendaApiRestYoshida" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Agenda-ApiRest-Yoshida" type="b2602c69:ProjectViewProjectNode" />
               <item name="Agenda-ApiRest-Yoshida" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Agenda-ApiRest-Yoshida" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Agenda-ApiRest-Yoshida" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="AgendaApiRestYoshida" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538040757523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549123169637" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -294,10 +214,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1602" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24646075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2501681" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.25227273" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,10 +230,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32818532" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32561132" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3243968" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.39805827" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924242" weight="0.32847896" />
       <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -335,24 +255,9 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/ContatoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -360,33 +265,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="208" selection-start-line="208" selection-end-line="208" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/jwt/filter/UsuarioLogin.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/jwt/filter/LoginUsuario.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/jwt/filter/JWTLoginFilter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Role.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDao.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/RoleDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/RoleDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoFone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -394,27 +281,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/UsuarioDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/service/UsuarioServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebMvcConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -429,20 +298,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/UsuarioDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/UsuarioDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/security/WebSecurityConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dao/AgendaDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -492,13 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoUsuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/enums/TipoUsuario.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -506,20 +357,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Usuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/domain/Usuario.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/Home.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/AgendaController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -534,10 +373,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDtoNulo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/ContatoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <caret line="43" column="5" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="e#1649#1650#0" expanded="true" />
             <element signature="e#1680#1681#0" expanded="true" />
@@ -545,17 +392,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/dto/ContatoDtoNulo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/AgendaApiRestYoshidaApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/agendaApiRestYoshida/AgendaApiRestYoshida/controller/ContatoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
